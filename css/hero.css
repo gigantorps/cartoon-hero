@@ -8,4 +8,7 @@ text-align: center;
 }
 header h1{color: white;}
 
-header img{border-radius: 150}
+header img{border-radius: 550px;
+	width: 300px;
+	border: 10px solid #483894;
+}
