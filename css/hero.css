@@ -25,3 +25,52 @@ header img{border-radius: 80px;
 	width: 340px;
 	border: 29px solid #483894;
 }
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 40px;
+	font-family: times new roman;
+	color: orangered;
+}
+
+a{
+	color: darkred;
+}
+
+a:hover
+	{
+		color: blue;
+		text-decoration: none;
+		background-color: orange;
+}
+
+footer{
+	background-color: darkred;
+	text-align: center;
+	color: whitesmoke;
+	padding: 30px;
+	margin: 0 auto;
+}
+
+a footer{
+	color: whitesmoke;
+}
+
+p.caption{
+	font-size: 15px;
+	color: darkred;
+	font-family: arial;
+	text-align: right;
+	margin: -25px 0 0;
+	opacity: .5;
+
+}
