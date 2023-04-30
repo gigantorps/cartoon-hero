@@ -9,11 +9,18 @@ text-align: center;
 padding-top: 50px;
 padding-bottom: 50px;
 }
+
+h1, h2{
+	font-size: 40px;
+font-family: 'Libre Barcode 128 Text', cursive;
+}
+
 header h1{color: white;
+font-family: 'Libre Barcode 128 Text', cursive;
 
 }
 
-header img{border-radius: 550px;
-	width: 300px;
-	border: 10px solid #483894;
+header img{border-radius: 80px;
+	width: 340px;
+	border: 29px solid #483894;
 }
