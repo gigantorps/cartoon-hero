@@ -1,12 +1,17 @@
 body{
+	font-family: apple chancery;
 	margin: 0;
 	
 }
 header{
 background-color: darkred;
 text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
 }
-header h1{color: white;}
+header h1{color: white;
+
+}
 
 header img{border-radius: 550px;
 	width: 300px;
